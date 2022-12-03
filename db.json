@@ -34,6 +34,10 @@
     	{
     		"name" : "donuts",
     		"stats" : "150 gm"
+    	},
+    	{
+    		"name" : "kia",
+    		"stats" : "soul"
     	}
     ]
 }
