@@ -1,5 +1,13 @@
 {
 	"users": [
 		
+		{
+		"id": 1,
+		"name": "Bogdan",
+		"sirname": "Ostroveckuy",
+		"photo_url": "https://github.com/Bogdavr",
+		"balance": 1500
+		}
+
 	]
 }
