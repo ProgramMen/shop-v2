@@ -21,6 +21,13 @@
 		"sirname": "Tarasyk",
 		"photo_url": "https://avatars.githubusercontent.com/u/118071309?s=400&u=cebf0d2ad593fc8f59c3844b4a8358c906bd1679&v=4",
 		"balance": 1500
+		},
+		{
+		"id": 4,
+		"name": "Maks",
+		"sirname": "Haponchuk",
+		"photo_url": "https://github.com/Gapaluk55",
+		"balance": 1500
 		}
 	]
 }
