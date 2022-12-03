@@ -14,7 +14,13 @@
 		"sirname": "Nimerovskij",
 		"photo_url": "https://avatars.githubusercontent.com/u/83456250?v=4",
 		"balance": 1500
+		},
+		{
+		"id": 3,
+		"name": "Artem",
+		"sirname": "Tarasyk",
+		"photo_url": "https://avatars.githubusercontent.com/u/118071309?s=400&u=cebf0d2ad593fc8f59c3844b4a8358c906bd1679&v=4",
+		"balance": 1500
 		}
-
 	]
 }
