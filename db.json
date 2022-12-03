@@ -38,6 +38,10 @@
     	{
     		"name" : "kia",
     		"stats" : "soul"
+    	},
+    	{
+    		"name" : "Tiger H1",
+    		"stats" : "1932"
     	}
     ]
 }
