@@ -7,6 +7,13 @@
 		"sirname": "Ostroveckuy",
 		"photo_url": "https://github.com/Bogdavr",
 		"balance": 1500
+		},
+		{
+		"id": 2,
+		"name": "Maks",
+		"sirname": "Nimerovskij",
+		"photo_url": "https://avatars.githubusercontent.com/u/83456250?v=4",
+		"balance": 1500
 		}
 
 	]
