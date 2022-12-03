@@ -29,5 +29,11 @@
 		"photo_url": "https://github.com/Gapaluk55",
 		"balance": 1500
 		}
-	]
+	],
+    "prodakts":[
+    	{
+    		"name" : "donuts",
+    		"stats" : "150 gm"
+    	}
+    ]
 }
