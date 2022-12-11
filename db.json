@@ -32,14 +32,17 @@
 	],
     "prodakts":[
     	{
+    		"id" : 1,
     		"name" : "donuts",
     		"stats" : "150 gm"
     	},
     	{
+    		"id" : 2,
     		"name" : "kia",
     		"stats" : "soul"
     	},
     	{
+    		"id" : 3,
     		"name" : "Tiger H1",
     		"stats" : "1932"
     	}
