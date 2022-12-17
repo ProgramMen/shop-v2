@@ -45,6 +45,11 @@
     		"id" : 3,
     		"name" : "Tiger H1",
     		"stats" : "1932"
+    	},
+    	{
+    		"id" : 4,
+    		"name" : "MEAGABULKAZMAKOM",
+    		"stats" : "1kg"
     	}
     ]
 }
