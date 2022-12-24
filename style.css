@@ -7,3 +7,12 @@
 	left: 15.8rem;
 	z-index: -1;
 }
+
+#cart {
+	position: absolute;
+	top: 20px;
+	right: 40px;
+	size cart: 5px;
+    
+}
+
