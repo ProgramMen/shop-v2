@@ -1,3 +1,30 @@
+<<<<<<< HEAD
 body {
 	position: absolute; left:60px;
 }
+=======
+body{
+	background-color: gray;
+}
+#cart-products::before {
+	content: '';
+	border: transparent solid 16px;
+	border-bottom: solid #000 16px;
+	position: relative;
+	top: -2.7rem;
+	left: 15.8rem;
+	z-index: -1;
+}
+<<<<<<< HEAD
+
+#cart {
+	position: absolute;
+	top: 20px;
+	right: 40px;
+	size cart: 5px;
+    
+}
+
+=======
+>>>>>>> f2babb92f572f11fff556ad655c7c610ab2b3924
+>>>>>>> 2f2ce800cd1063a7e996c15f0c72c41986fddd3c
