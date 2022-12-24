@@ -1,3 +1,6 @@
+body{
+	background-color: gray;
+}
 #cart-products::before {
 	content: '';
 	border: transparent solid 16px;
